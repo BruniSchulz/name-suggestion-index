@@ -4672,6 +4672,16 @@
         "operator:zh": "長榮集團",
         "tourism": "hotel"
       }
+    },
+    {
+      "displayName": "Anemon Hotel",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+      "brand": " Anemon Hotel ",
+      "brand:wikidata": " Q111856743",
+      "name": " Anemon Hotel ",
+      "tourism": "hotel"
+      }
     }
   ]
 }
