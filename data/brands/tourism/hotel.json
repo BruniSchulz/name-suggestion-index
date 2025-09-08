@@ -4940,14 +4940,14 @@
       }
     },
    {
-      "displayName": "Sokos Hotels",
+      "displayName": "Original by Sokos Hotels",
       "locationSet": {
         "include": ["fi", "ee"]
       },
       "tags": {
-        "brand": "Sokos Hotels",
-        "brand:wikidata": "Q3915335",
-        "name": "Sokos Hotels",
+        "brand": "Original by Sokos Hotels",
+        "brand:wikidata": "Q136158784",
+        "name": "Original by Sokos Hotels",
         "tourism": "hotel"
       }
     } 
